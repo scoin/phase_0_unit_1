@@ -16,3 +16,5 @@ All concepts were really solidified. Being able to edit and save source files wa
 
 I did not find nor need any additional resources. The codeschool demonstrations were great.
 
+Here is my codeschool score
+http://imgur.com/C0LdSbu
