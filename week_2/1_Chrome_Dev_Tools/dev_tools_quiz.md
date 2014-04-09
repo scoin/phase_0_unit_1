@@ -35,6 +35,7 @@ http://imgur.com/vxqxGfs
 
 * For the postmachina website, why can't you tweak the color of the text "The most important things are not things"?  Please explain.
 
+
 Because that <p> text is not displayed. There is a background-image in css set for p in the #main div. You are seeing an image titled home_bg.gif
 
 * Go to www.ticketswizard.com and analyze the page.  
@@ -46,5 +47,5 @@ Because that <p> text is not displayed. There is a background-image in css set f
 This information is obtained by going to the "network" tab and sorting by size. 
 
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the lowest hanging fruit to optimize the website?  How many kilobytes of data can be eliminated?
-* 
+
 By losslessly compressing images, this site could save 885.9KiB in load data.
