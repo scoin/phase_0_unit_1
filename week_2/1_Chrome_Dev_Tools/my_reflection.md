@@ -14,6 +14,8 @@ Chrome Web Tools is easy and fun! The amount of functionality is amazing, I did 
 
 All concepts were really solidified. Being able to edit and save source files was a big "aha" moment - I really thought chrome web tools was just for debugging. Turns out it's a full on editor!
 
+I genuinely enjoyed the instruction and the challenge. I did not struggle in the least, not due to my own skill but simply because the codeschool demonstration covered all of it very plainly.
+
 I did not find nor need any additional resources. The codeschool demonstrations were great.
 
 Here is my codeschool score
