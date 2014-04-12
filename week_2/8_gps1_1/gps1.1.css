@@ -1,1 +1,4 @@
 /* include your css here */
+   .all { background-color: grey; padding: 0px auto 150px auto;}
+    .container { background-color: white; width: 60%; margin: 0 auto 20px auto; padding: 30px 20px 150px 20px; }
+    .header { text-align: center; border-style: solid; border-width 1px; }
