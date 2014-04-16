@@ -140,6 +140,12 @@ this.attackXY(49, 65);
 this.moveXY(56,34);
 this.attackXY(53, 43);
  
+ /*"this" refers to the object for which that function is a method. Commonly this could be
+an HTML element on the page. In this case, it is the game character.
+
+The () send arguments to the function, like X and Y coordinates.
+
+The semicolons end a statement. */
  
  
 // Reflection:
