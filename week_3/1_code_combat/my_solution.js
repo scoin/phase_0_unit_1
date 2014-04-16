@@ -150,3 +150,9 @@ The semicolons end a statement. */
  
 // Reflection:
 // Write your reflection here.
+/*Full disclosure, I hated code combat. I've loved every lesson so far, and this one's a game, should be awesome right? 
+No, it wasn't. I understand it is catering to total beginners - I am a js beginner for sure but not to programming
+basics - the fact that the first 6 lessons only used move direction, say and attack was really tedious. Somebody with no
+programming experience whatsoever could have figured out moveRight(); by the second lesson. The site is super slow,
+unresponsive, and flashes screen covering popups seemingly at random these were definitely the biggest challenges. I
+really feel like I did not learn anything other than extremely basic js syntax. */
