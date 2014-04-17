@@ -17,7 +17,7 @@ Move right 1x to 4,-1
 Fight a rat at 5,-1
 Move right 2x to 6, -1
 Climb 3x to 6, 2
-The light shines, welcome to dev bootcamp! 
+The light shines, welcome to Dev Bootcamp! 
 */
 
 // Initial Code
