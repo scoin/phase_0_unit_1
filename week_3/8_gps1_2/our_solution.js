@@ -45,3 +45,15 @@ for(i = 0; i < people.length; i++){
 
 
 //  Your Reflection:
+/*
+Ajay and I naturally with the time constraints did our strategy on the fly. We wanted to use prototypes rather than
+object literals, as was demonstrated by the shooterMcGavin code in place. We faced the problem of figuring out exactly
+how to do that. We also needed to print it out "pretty" and wrestled between concatenation and other options. We also wanted to add an ID number.
+
+Emily guided us through our questions, such as figuring out how to iterate through all the clients, which we did with an array.
+
+I really learned javascript prototypes here, as well why some stuff works and doesn't - for example, our .id property
+is added only in the scope of the for loop, and does not live on after.
+
+I am very confident with the objectives here, and felt it an excellent primer to prototypes / classes. I really enjoyed
+working with Ajay and Emily. I did not find any aspect tedious, though navigator - driver takes some getting used to.
